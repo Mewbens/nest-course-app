@@ -19,7 +19,7 @@ export class AppController {
     return this.appService.getmyJson();
   }
 
-  @Get('/showgit')
+  @Get('/showGit')
   getGit() {
     return this.appService.getGit();
   }
