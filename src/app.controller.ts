@@ -19,7 +19,7 @@ export class AppController {
     return this.appService.getmyJson();
   }
 
-  @Get('show test Git and gitHub')
+  @Get('/zxcv')
   getGitandGitHub() {
     return this.appService.getGitandGitHub();
   }
