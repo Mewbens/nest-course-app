@@ -16,7 +16,7 @@ export class AppService {
     };
   }
 
-  getGitandGitHub() {
-    return 'Git and GitHub using'
+  getGit() {
+    return 'Git and GitHub using';
 }
 }
